@@ -1,0 +1,12 @@
+Tiger Habitat:
+    • TI01; Sher Khan1; birth date: 2022-06-01; orange with black stripes color; male; 180 pounds; from jungle; arrived 2024-04-11
+
+Elephant Habitat:
+    • EL01; Billa1; birth date: 2018-09-01; gray color; female; 6000 pounds; from safari; arrived 2024-04-11
+
+Hyena Habitat:
+    • HY01; Kamari1; birth date: 2020-03-01; tan color; female; 70 pounds; from savannah; arrived 2024-04-11
+
+Lion Habitat:
+    • LI01; Jaggo1; birth date: 2021-12-01; golden color; male; 400 pounds; from savannah; arrived 2024-04-11
+
